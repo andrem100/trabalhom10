@@ -1,0 +1,84 @@
+c:\users\i150057\documents\visual studio 2013\Projects\Projeto\Projeto\bin\Projeto.dll.config
+c:\users\i150057\documents\visual studio 2013\Projects\Projeto\Projeto\bin\Projeto.dll
+c:\users\i150057\documents\visual studio 2013\Projects\Projeto\Projeto\bin\Projeto.pdb
+c:\users\i150057\documents\visual studio 2013\Projects\Projeto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+c:\users\i150057\documents\visual studio 2013\Projects\Projeto\Projeto\obj\Debug\Projeto.dll
+c:\users\i150057\documents\visual studio 2013\Projects\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\maral\Desktop\ProjetoRedes\Projeto\Projeto\Projeto\bin\Projeto.dll.config
+C:\Users\maral\Desktop\ProjetoRedes\Projeto\Projeto\Projeto\bin\Projeto.dll
+C:\Users\maral\Desktop\ProjetoRedes\Projeto\Projeto\Projeto\bin\Projeto.pdb
+C:\Users\maral\Desktop\ProjetoRedes\Projeto\Projeto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\maral\Desktop\ProjetoRedes\Projeto\Projeto\Projeto\obj\Debug\Projeto.dll
+C:\Users\maral\Desktop\ProjetoRedes\Projeto\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\i150057\Documents\Projeto\Projeto\bin\Projeto.dll.config
+C:\Users\i150057\Documents\Projeto\Projeto\bin\Projeto.dll
+C:\Users\i150057\Documents\Projeto\Projeto\bin\Projeto.pdb
+C:\Users\i150057\Documents\Projeto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\i150057\Documents\Projeto\Projeto\obj\Debug\Projeto.dll
+C:\Users\i150057\Documents\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Andre\Desktop\projecto\Projeto\bin\Projeto.dll.config
+C:\Users\Andre\Desktop\projecto\Projeto\bin\Projeto.dll
+C:\Users\Andre\Desktop\projecto\Projeto\bin\Projeto.pdb
+C:\Users\Andre\Desktop\projecto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\projecto\Projeto\obj\Debug\Projeto.dll
+C:\Users\Andre\Desktop\projecto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\maral\OneDrive\Documentos\projecto (2)\projecto\Projeto\bin\Projeto.dll.config
+C:\Users\maral\OneDrive\Documentos\projecto (2)\projecto\Projeto\bin\Projeto.dll
+C:\Users\maral\OneDrive\Documentos\projecto (2)\projecto\Projeto\bin\Projeto.pdb
+C:\Users\maral\OneDrive\Documentos\projecto (2)\projecto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\maral\OneDrive\Documentos\projecto (2)\projecto\Projeto\obj\Debug\Projeto.dll
+C:\Users\maral\OneDrive\Documentos\projecto (2)\projecto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Andre\Desktop\MeuProjecto\Projeto\bin\Projeto.dll.config
+C:\Users\Andre\Desktop\MeuProjecto\Projeto\bin\Projeto.dll
+C:\Users\Andre\Desktop\MeuProjecto\Projeto\bin\Projeto.pdb
+C:\Users\Andre\Desktop\MeuProjecto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\MeuProjecto\Projeto\obj\Debug\Projeto.dll
+C:\Users\Andre\Desktop\MeuProjecto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\maral\OneDrive\Documentos\MeuProjecto (2)\MeuProjecto\Projeto\bin\Projeto.dll.config
+C:\Users\maral\OneDrive\Documentos\MeuProjecto (2)\MeuProjecto\Projeto\bin\Projeto.dll
+C:\Users\maral\OneDrive\Documentos\MeuProjecto (2)\MeuProjecto\Projeto\bin\Projeto.pdb
+C:\Users\maral\OneDrive\Documentos\MeuProjecto (2)\MeuProjecto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\maral\OneDrive\Documentos\MeuProjecto (2)\MeuProjecto\Projeto\obj\Debug\Projeto.dll
+C:\Users\maral\OneDrive\Documentos\MeuProjecto (2)\MeuProjecto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Andre\Desktop\QuaseProjecto\MeuProjecto\Projeto\bin\Projeto.dll.config
+C:\Users\Andre\Desktop\QuaseProjecto\MeuProjecto\Projeto\bin\Projeto.dll
+C:\Users\Andre\Desktop\QuaseProjecto\MeuProjecto\Projeto\bin\Projeto.pdb
+C:\Users\Andre\Desktop\QuaseProjecto\MeuProjecto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\QuaseProjecto\MeuProjecto\Projeto\obj\Debug\Projeto.dll
+C:\Users\Andre\Desktop\QuaseProjecto\MeuProjecto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\maral\OneDrive\Documentos\QuaseProjecto\QuaseProjecto\MeuProjecto\Projeto\bin\Projeto.dll.config
+C:\Users\maral\OneDrive\Documentos\QuaseProjecto\QuaseProjecto\MeuProjecto\Projeto\bin\Projeto.dll
+C:\Users\maral\OneDrive\Documentos\QuaseProjecto\QuaseProjecto\MeuProjecto\Projeto\bin\Projeto.pdb
+C:\Users\maral\OneDrive\Documentos\QuaseProjecto\QuaseProjecto\MeuProjecto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\maral\OneDrive\Documentos\QuaseProjecto\QuaseProjecto\MeuProjecto\Projeto\obj\Debug\Projeto.dll
+C:\Users\maral\OneDrive\Documentos\QuaseProjecto\QuaseProjecto\MeuProjecto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Andre\Desktop\MEsmoQuase\QuaseProjecto\MeuProjecto\Projeto\bin\Projeto.dll.config
+C:\Users\Andre\Desktop\MEsmoQuase\QuaseProjecto\MeuProjecto\Projeto\bin\Projeto.dll
+C:\Users\Andre\Desktop\MEsmoQuase\QuaseProjecto\MeuProjecto\Projeto\bin\Projeto.pdb
+C:\Users\Andre\Desktop\MEsmoQuase\QuaseProjecto\MeuProjecto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\MEsmoQuase\QuaseProjecto\MeuProjecto\Projeto\obj\Debug\Projeto.dll
+C:\Users\Andre\Desktop\MEsmoQuase\QuaseProjecto\MeuProjecto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\maral\OneDrive\Documentos\MEsmoQuase\MEsmoQuase\QuaseProjecto\MeuProjecto\Projeto\bin\Projeto.dll.config
+C:\Users\maral\OneDrive\Documentos\MEsmoQuase\MEsmoQuase\QuaseProjecto\MeuProjecto\Projeto\bin\Projeto.dll
+C:\Users\maral\OneDrive\Documentos\MEsmoQuase\MEsmoQuase\QuaseProjecto\MeuProjecto\Projeto\bin\Projeto.pdb
+C:\Users\maral\OneDrive\Documentos\MEsmoQuase\MEsmoQuase\QuaseProjecto\MeuProjecto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\maral\OneDrive\Documentos\MEsmoQuase\MEsmoQuase\QuaseProjecto\MeuProjecto\Projeto\obj\Debug\Projeto.dll
+C:\Users\maral\OneDrive\Documentos\MEsmoQuase\MEsmoQuase\QuaseProjecto\MeuProjecto\Projeto\obj\Debug\Projeto.pdb
+E:\Feito\MEsmoQuase\QuaseProjecto\MeuProjecto\Projeto\bin\Projeto.dll.config
+E:\Feito\MEsmoQuase\QuaseProjecto\MeuProjecto\Projeto\bin\Projeto.dll
+E:\Feito\MEsmoQuase\QuaseProjecto\MeuProjecto\Projeto\bin\Projeto.pdb
+E:\Feito\MEsmoQuase\QuaseProjecto\MeuProjecto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+E:\Feito\MEsmoQuase\QuaseProjecto\MeuProjecto\Projeto\obj\Debug\Projeto.dll
+E:\Feito\MEsmoQuase\QuaseProjecto\MeuProjecto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\i150072\Desktop\MeuProjecto\Projeto\bin\Projeto.dll.config
+C:\Users\i150072\Desktop\MeuProjecto\Projeto\bin\Projeto.dll
+C:\Users\i150072\Desktop\MeuProjecto\Projeto\bin\Projeto.pdb
+C:\Users\i150072\Desktop\MeuProjecto\Projeto\obj\Debug\Projeto.dll
+C:\Users\i150072\Desktop\MeuProjecto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\i150072\Desktop\MeuProjecto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+F:\12o\RC\Projecto PJ M10\MeuProjecto\Projeto\bin\Projeto.dll.config
+F:\12o\RC\Projecto PJ M10\MeuProjecto\Projeto\bin\Projeto.dll
+F:\12o\RC\Projecto PJ M10\MeuProjecto\Projeto\bin\Projeto.pdb
+F:\12o\RC\Projecto PJ M10\MeuProjecto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+F:\12o\RC\Projecto PJ M10\MeuProjecto\Projeto\obj\Debug\Projeto.dll
+F:\12o\RC\Projecto PJ M10\MeuProjecto\Projeto\obj\Debug\Projeto.pdb
